@@ -10,4 +10,5 @@ Development Lead
 Contributors
 ------------
 
-Colm Harrington <colm.harrington@gmail.com>
+* Colm Harrington <colm.harrington@gmail.com>
+* Joseph Sayler <joseph.sayler@gmail.com>
